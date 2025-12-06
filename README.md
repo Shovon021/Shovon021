@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Animated Header with Better Colors -->
+<!-- Animated Header with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=200&section=header&text=Sarfaraz%20Ahamed%20Shovon&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%26%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=52&descSize=18"/>
 
-<!-- Typing SVG with More Roles -->
+<!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%8E%93+CSE+Student+%40+East+West+University;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%92%BB+Full+Stack+Developer+%7C+Chrome+Extension+Dev;%F0%9F%9A%80+Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 
-<!-- Social Badges Row -->
+<!-- Animated Social Badges -->
 <p>
 <a href="https://github.com/Shovon021?tab=followers">
   <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Shovon021?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -17,16 +17,19 @@
 <img src="https://komarev.com/ghpvc/?username=Shovon021&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- Wave Emoji -->
+<!-- Animated Wave -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 </div>
 
 ---
 
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
 const shovon = {
@@ -63,35 +66,86 @@ const shovon = {
 - 💡 Exploring **New Technologies & Frameworks**
 - 🎓 Studying **CSE @ East West University**
 
+<br clear="both">
+
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,c,html,css&theme=dark" />
-</p>
+<!-- Animated Tech Icons -->
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br>MySQL
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+<br>Nginx
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+<br>REST API
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
+<br>Prettier
+</td>
+</tr>
+</table>
 
-### 🧰 Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,express,bootstrap&theme=dark" />
-</p>
+### 🧰 More Technologies
 
-### 🗄️ Databases & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,html,css,react,nodejs,express&theme=dark" />
 </p>
-
-### 🛠️ Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,figma,postman,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,firebase,git,github,vscode,linux,docker,figma&theme=dark" />
 </p>
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
@@ -106,6 +160,8 @@ const shovon = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shovon021&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
@@ -113,12 +169,16 @@ const shovon = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shovon021&custom_title=Shovon's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=EC4899&area_color=3B82F6&area=true&hide_border=true" />
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
@@ -135,6 +195,8 @@ const shovon = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
@@ -147,6 +209,8 @@ const shovon = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💭 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -154,17 +218,23 @@ const shovon = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🤝 Connect With Me
 
 <div align="center">
+  
 <a href="https://github.com/Shovon021" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:shovon@example.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 <a href="https://linkedin.com/in/shovon021" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://facebook.com/shovon021" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/shovon021" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
@@ -174,6 +244,8 @@ const shovon = {
 <div align="center">
 
 ### ⭐ Show some ❤️ by starring some of the repositories!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=120&section=footer"/>
 
