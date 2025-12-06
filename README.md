@@ -1,10 +1,14 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=200&section=header&text=Sarfaraz%20Ahamed%20Shovon&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%26%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=52&descSize=18"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling"/>
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%8E%93+CSE+Student+%40+East+West+University;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%92%BB+Full+Stack+Developer+%7C+Chrome+Extension+Dev;%F0%9F%9A%80+Always+Learning+New+Technologies" alt="Typing SVG" /></a>
+<!-- Animated Name -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=50&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&height=70&lines=Sarfaraz+Ahamed+Shovon" alt="Name Animation" /></a>
+
+<!-- Subtitle Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%8E%93+CSE+Student+%40+East+West+University;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%92%BB+Full+Stack+Developer+%7C+Chrome+Extension+Dev;%F0%9F%9A%80+Always+Learning+New+Technologies" alt="Typing SVG" /></a>
+
 
 <!-- Animated Social Badges -->
 <p>
