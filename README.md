@@ -191,8 +191,8 @@ const shovon = {
 <a href="https://github.com/Shovon021/ewu-uniguide-extension">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shovon021&repo=ewu-uniguide-extension&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
 </a>
-<a href="https://github.com/Shovon021/CSE366-AI-Project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shovon021&repo=CSE366-AI-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
+<a href="https://github.com/Shovon021/CSE302">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shovon021&repo=CSE302&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
 </a>
 
 </div>
