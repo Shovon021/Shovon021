@@ -1,147 +1,170 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sarfaraz%20Ahamed%20Shovon&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Animated Header with Better Colors -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=200&section=header&text=Sarfaraz%20Ahamed%20Shovon&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%26%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=52&descSize=18"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+%26+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Chrome+Extension+Developer;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
+<!-- Typing SVG with More Roles -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%8E%93+CSE+Student+%40+East+West+University;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%92%BB+Full+Stack+Developer+%7C+Chrome+Extension+Dev;%F0%9F%9A%80+Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 
-<!-- Social Badges -->
+<!-- Social Badges Row -->
 <p>
-<a href="https://github.com/Shovon021"><img src="https://img.shields.io/github/followers/Shovon021?label=Followers&style=social" alt="GitHub Followers"></a>
-<img src="https://komarev.com/ghpvc/?username=Shovon021&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://github.com/Shovon021?tab=followers">
+  <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Shovon021?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+<a href="https://github.com/Shovon021?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Shovon021?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Shovon021&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<!-- Wave Emoji -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+</div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const shovon = {
+    name: "Sarfaraz Ahamed Shovon",
+    pronouns: "He" | "Him",
+    location: "Dhaka, Bangladesh 🇧🇩",
+    education: {
+        university: "East West University",
+        major: "Computer Science & Engineering",
+        status: "Undergraduate"
+    },
+    currentFocus: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Web Development",
+        "Chrome Extensions"
+    ],
+    askMeAbout: [
+        "Python", "JavaScript", 
+        "AI/ML", "Data Science",
+        "Web Dev"
+    ],
+    funFact: "I debug with coffee ☕ and solve with code 💻"
+};
+```
+
+<br>
+
+### 🎯 Current Activities
+
+- 🔭 Working on **AI & Machine Learning Projects**
+- 🌱 Learning **Deep Learning, Data Science & Cloud Tech**
+- 🛠️ Building **Chrome Extensions & Web Applications**
+- 💡 Exploring **New Technologies & Frameworks**
+- 🎓 Studying **CSE @ East West University**
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,c,html,css&theme=dark" />
+</p>
+
+### 🧰 Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,express,bootstrap&theme=dark" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,figma,postman,npm&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const shovon = {
-    pronouns: "He" | "Him",
-    location: "Bangladesh 🇧🇩",
-    education: "Computer Science & Engineering @ East West University",
-    currentFocus: ["AI/ML", "Web Development", "Chrome Extensions"],
-    funFact: "I turn coffee ☕ into code 💻"
-};
-```
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 Currently working on **AI & Machine Learning Projects**
-- 🌱 Learning **Data Science, Deep Learning & Cloud Technologies**
-- 💬 Ask me about **Python, JavaScript, AI/ML, Web Development**
-- 📫 Reach me at **[GitHub](https://github.com/Shovon021)**
-- ⚡ Fun fact: **I love solving complex problems with simple solutions!**
-
----
-
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shovon021&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Shovon021's GitHub Stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shovon021&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shovon021&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shovon021&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=8B5CF6&dates=888888" />
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shovon021&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6)](https://git.io/streak-stats)
-
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shovon021&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shovon021&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Shovon021&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shovon021&custom_title=Shovon's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=EC4899&area_color=3B82F6&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
-  
-[![Shovon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shovon021&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/Shovon021/ewu-uniguide-extension">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shovon021&repo=ewu-uniguide-extension&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
+</a>
+<a href="https://github.com/Shovon021/CSE366-AI-Project">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shovon021&repo=CSE366-AI-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
+</a>
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
-
-[![EWU UniGuide](https://github-readme-stats.vercel.app/api/pin/?username=Shovon021&repo=ewu-uniguide-extension&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Shovon021/ewu-uniguide-extension)
-[![AI Project](https://github-readme-stats.vercel.app/api/pin/?username=Shovon021&repo=CSE366-AI-Project&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Shovon021/CSE366-AI-Project)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
+## 💭 Random Dev Quote
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Shovon021/Shovon021/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
 
-<div align="center">
-
-### 💬 Random Dev Quote
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
+## 🤝 Connect With Me
 
 <div align="center">
-
-### 🤝 Let's Connect!
-
-<a href="https://github.com/Shovon021">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/Shovon021" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:shovon@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/shovon021" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -149,7 +172,9 @@ const shovon = {
 ---
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+### ⭐ Show some ❤️ by starring some of the repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=120&section=footer"/>
 
 </div>
