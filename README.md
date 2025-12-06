@@ -198,16 +198,16 @@ const shovon = {
 
 <p align="center">
   <a href="https://github.com/Shovon021">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shovon021&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Shovon's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shovon021&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&icon_color=EC4899&text_color=333333&count_private=true&include_all_commits=true" alt="Shovon's GitHub Stats"/>
   </a>
   <a href="https://github.com/Shovon021">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Shovon021&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=8B5CF6&dates=888888" alt="Shovon's Streak Stats"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=Shovon021&theme=default&hide_border=true&background=FFFFFF&stroke=E0E0E0&ring=3B82F6&fire=EC4899&currStreakNum=333333&sideNums=333333&currStreakLabel=3B82F6&sideLabels=8B5CF6&dates=666666" alt="Shovon's Streak Stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Shovon021">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shovon021&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shovon021&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=333333&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
@@ -219,7 +219,7 @@ const shovon = {
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/Shovon021">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shovon021&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Shovon021&theme=flat&no-frame=true&no-bg=false&column=7&margin-w=10" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -230,7 +230,7 @@ const shovon = {
 ## 📈 Contribution Graph
 <p align="center">
   <a href="https://github.com/Shovon021">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shovon021&custom_title=Shovon's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=EC4899&area_color=3B82F6&area=true&hide_border=true" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shovon021&custom_title=Shovon's%20Contribution%20Graph&bg_color=FFFFFF&color=3B82F6&line=EC4899&point=8B5CF6&area_color=F0F9FF&area=true&hide_border=true" alt="Contribution Graph"/>
   </a>
 </p>
 
@@ -245,7 +245,7 @@ const shovon = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shovon021/Shovon021/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shovon021/Shovon021/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Shovon021/Shovon021/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Shovon021/Shovon021/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -255,7 +255,7 @@ const shovon = {
 
 ## 💭 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </div>
 
 ---
