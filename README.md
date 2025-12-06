@@ -198,7 +198,7 @@ const shovon = {
 
 <p align="center">
   <a href="https://github.com/Shovon021">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shovon021&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" alt="Shovon's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shovon021&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Shovon's GitHub Stats"/>
   </a>
   <a href="https://github.com/Shovon021">
     <img height="180em" src="https://streak-stats.demolab.com?user=Shovon021&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=8B5CF6&dates=888888" alt="Shovon's Streak Stats"/>
@@ -207,9 +207,10 @@ const shovon = {
 
 <p align="center">
   <a href="https://github.com/Shovon021">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shovon021&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=6" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shovon021&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
+
 
 ---
 
