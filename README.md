@@ -80,57 +80,81 @@ const shovon = {
 
 <div align="center">
 
-<!-- Animated Tech Icons -->
+<!-- Animated Tech Icons with Links -->
 <table>
 <tr>
 <td align="center" width="96">
+<a href="https://www.python.org/" target="_blank">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+</a>
 <br>Python
 </td>
 <td align="center" width="96">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+</a>
 <br>JavaScript
 </td>
 <td align="center" width="96">
+<a href="https://isocpp.org/" target="_blank">
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+</a>
 <br>C++
 </td>
 <td align="center" width="96">
+<a href="https://www.java.com/" target="_blank">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+</a>
 <br>Java
 </td>
 <td align="center" width="96">
+<a href="https://react.dev/" target="_blank">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+</a>
 <br>React
 </td>
 <td align="center" width="96">
+<a href="https://www.mysql.com/" target="_blank">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+</a>
 <br>MySQL
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
+<a href="https://github.com/" target="_blank">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</a>
 <br>GitHub
 </td>
 <td align="center" width="96">
+<a href="https://www.docker.com/" target="_blank">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+</a>
 <br>Docker
 </td>
 <td align="center" width="96">
+<a href="https://nginx.org/" target="_blank">
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+</a>
 <br>Nginx
 </td>
 <td align="center" width="96">
+<a href="https://restfulapi.net/" target="_blank">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+</a>
 <br>REST API
 </td>
 <td align="center" width="96">
+<a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+</a>
 <br>TypeScript
 </td>
 <td align="center" width="96">
+<a href="https://prettier.io/" target="_blank">
 <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
+</a>
 <br>Prettier
 </td>
 </tr>
@@ -139,10 +163,29 @@ const shovon = {
 ### 🧰 More Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,html,css,react,nodejs,express&theme=dark" />
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,firebase,git,github,vscode,linux,docker,figma&theme=dark" />
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+</p>
+<p>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 </p>
 
 </div>
