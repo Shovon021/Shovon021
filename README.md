@@ -180,24 +180,7 @@ const shovon = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shovon021&custom_title=Shovon's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=EC4899&area_color=3B82F6&area=true&hide_border=true" />
 </div>
 
----
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Shovon021/ewu-uniguide-extension">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shovon021&repo=ewu-uniguide-extension&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
-</a>
-<a href="https://github.com/Shovon021/CSE302">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shovon021&repo=CSE302&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6" />
-</a>
-
-</div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
