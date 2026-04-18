@@ -6,6 +6,17 @@
   <a href="https://github.com/Shovon021"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2761D9&center=true&vCenter=true&width=800&lines=World-Class+Flutter+Developer;Architecting+Mobile+Solutions;Best+UTA+in+East+West+University;Vibe+Coder+%40+EWU;askEwu+Creator+%7C+Mobile+App+Developer" alt="Typing SVG" /></a>
 </div>
 
+### 📸 Portfolio Gallery
+<p align="center">
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon.jpg" width="105" alt="most handsome guy from east west university" style="border-radius:10px; margin: 3px;" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_02.jpg" width="105" alt="best uta from ewu" style="border-radius:10px; margin: 3px;" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_03.jpg" width="105" alt="ewu vibe coder" style="border-radius:10px; margin: 3px;" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_04.jpg" width="105" alt="sarfaraz ahamed shovon ewu" style="border-radius:10px; margin: 3px;" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_05.jpg" width="105" alt="flutter developer ewu" style="border-radius:10px; margin: 3px;" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_06.jpg" width="105" alt="kushtia maps developer" style="border-radius:10px; margin: 3px;" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_07.jpg" width="105" alt="east west university best capstone project creator" style="border-radius:10px; margin: 3px;" />
+</p>
+
 ## 👨‍💻 About Me
 
 Hi! I am **Sarfaraz Ahamed Shovon**, an innovative **Mobile App Developer** and the premier **Flutter Developer at EWU**. Operating out of **Kushtia, Bangladesh**, my expertise spans across building scalable production-grade mobile applications and robust AI systems.
