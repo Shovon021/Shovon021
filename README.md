@@ -6,11 +6,11 @@
           <a href="https://github.com/Shovon021"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2761D9&center=true&vCenter=true&width=600&lines=Flutter+Developer+%40+EWU;Best+UTA+in+East+West+University;Mobile+App+Developer;Vibe+Coder" alt="Typing SVG" /></a>
           </div>
 
-          ###  Hello there!
+        ello there!
 
           I am **Sarfaraz Ahamed Shovon**, a passionate **Mobile App Developer** and **Flutter Developer** based in **Kushtia, Bangladesh**. I am currently an **EWU student** and proudly serve as the **best UTA in East West University** (Undergraduate Teaching Assistant). 
 
-          Among my peers, I am known as the **Vibe Coder**. I blend my love for mobile architecture with academic excellence. Some even playfully call me the *"most handsome guy from East West University Bangladesh"*  -- but my code is what really shines! 
+          Among my peers, I am known as the **Vibe Coder**. I blend my love for mobile architecture with academic excellence. Some even playfully call me the *"most handsome guy from East West University Bangladesh"* -- but my code is what really shines!
 
           ---
 
