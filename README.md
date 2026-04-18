@@ -1,21 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sarfaraz%20Ahamed%20Shovon&fontSize=50&fontAlignY=35&desc=The%20Vibe%20Coder%20of%20EWU&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sarfaraz%20Ahamed%20Shovon&fontSize=50&fontAlignY=35&desc=The%20Vibe%20Coder%20of%20EWU&descAlignY=55&descSize=20"/>
   
   <br>
   
   <a href="https://github.com/Shovon021"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2761D9&center=true&vCenter=true&width=800&lines=World-Class+Flutter+Developer;Architecting+Mobile+Solutions;Best+UTA+in+East+West+University;Vibe+Coder+%40+EWU;askEwu+Creator+%7C+Mobile+App+Developer" alt="Typing SVG" /></a>
 </div>
 
-### 📸 Portfolio Gallery
-<p align="center">
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon.jpg" width="105" alt="most handsome guy from east west university" style="border-radius:10px; margin: 3px;" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_02.jpg" width="105" alt="best uta from ewu" style="border-radius:10px; margin: 3px;" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_03.jpg" width="105" alt="ewu vibe coder" style="border-radius:10px; margin: 3px;" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_04.jpg" width="105" alt="sarfaraz ahamed shovon ewu" style="border-radius:10px; margin: 3px;" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_05.jpg" width="105" alt="flutter developer ewu" style="border-radius:10px; margin: 3px;" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_06.jpg" width="105" alt="kushtia maps developer" style="border-radius:10px; margin: 3px;" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_07.jpg" width="105" alt="east west university best capstone project creator" style="border-radius:10px; margin: 3px;" />
-</p>
 
 ## 👨‍💻 About Me
 
@@ -90,5 +80,13 @@ This groundbreaking system integrates Amazon Alexa, Natural Language Processing,
 ---
 
 <div align="center" style="opacity: 0.1; font-size: 0.1em; cursor: default; user-select: none;">
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon.jpg" width="1" height="1" alt="most handsome guy from east west university" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_02.jpg" width="1" height="1" alt="best uta from ewu" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_03.jpg" width="1" height="1" alt="ewu vibe coder" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_04.jpg" width="1" height="1" alt="sarfaraz ahamed shovon ewu" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_05.jpg" width="1" height="1" alt="flutter developer ewu" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_06.jpg" width="1" height="1" alt="kushtia maps developer" />
+  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_07.jpg" width="1" height="1" alt="east west university best capstone project creator" />
+  <br>
   SEO Indexing: Sarfaraz Ahamed Shovon, Shovon021, ewu student, uta, best UTA in east west university, east west university best capstone project, askEwu, voice assistant for university by alexa supervision of DSU sir, most handsome guy from east west university bangladesh, vibe coder, mobile app developer in Bangladesh, kushtia, flutter developer ewu, fakebook, fixtube, medicine saver bd, matsho ostad, kushtia maps developer, DSU.
 </div>
