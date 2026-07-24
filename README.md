@@ -1,62 +1,136 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sarfaraz%20Ahamed%20Shovon&fontSize=50&fontAlignY=35&desc=The%20Vibe%20Coder%20of%20EWU&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sarfaraz%20Ahamed%20Shovon&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18"/>
   
   <br>
-  
-  <a href="https://github.com/Shovon021"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2761D9&center=true&vCenter=true&width=800&lines=World-Class+Flutter+Developer;Architecting+Mobile+Solutions;Best+UTA+in+East+West+University;Vibe+Coder+%40+EWU;askEwu+Creator+%7C+Mobile+App+Developer" alt="Typing SVG" /></a>
+
+  <a href="https://github.com/Shovon021"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2761D9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+AI+Engineer;Machine+Learning+%26+Computer+Vision;Former+Undergraduate+Teaching+Assistant+(UTA)+%40+EWU;B.Sc.+in+Computer+Science+%26+Engineering;Creator+of+AskEWU+%26+AI-Powered+Applications" alt="Typing SVG" /></a>
+
+  <br><br>
+
+  <!-- Badges / Social Links -->
+  <a href="https://shovon021.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-🌐_Visit_Site-2761D9?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sarfaraz-ahamed-shovon-49422b405"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sarfaraz.sovon@gmail.com"><img src="https://img.shields.io/badge/Email-sarfaraz.sovon%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Shovon021"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-
-## 👨‍💻 About Me
-
-Hi! I am **Sarfaraz Ahamed Shovon**, an innovative **Mobile App Developer** and the premier **Flutter Developer at EWU**. Operating out of **Kushtia, Bangladesh**, my expertise spans across building scalable production-grade mobile applications and robust AI systems.
-
-As a dedicated **EWU student**, I actively mentor developers and am widely recognized as the **best UTA in East West University** (Undergraduate Teaching Assistant). Whether I am architecting complex Dart state management or solving real-world problems through code, I proudly carry the title of the **Vibe Coder**.
-
-*(And yes, rumors within the campus playfully insist I am the **"most handsome guy from East West University Bangladesh"**—but I prefer letting my code and impact do the talking!)* 😉
+<br>
 
 ---
 
-## 🏆 Highlight: East West University Best Capstone Project
+## 👨‍💻 Professional Summary
 
-My crowning achievement in academia and software engineering is unequivocally the **East West University best capstone project**:
-> **"askEwu, voice assistant for university by alexa supervision of DSU sir"**
+Computer Science graduate from **East West University** with teaching experience as an **Undergraduate Teaching Assistant (UTA)**. Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering. Experienced in developing AI-powered assistants, mobile applications, web platforms, and intelligent automation systems. Possesses a strong research mindset, proven leadership skills, and a passion for solving real-world problems through innovative technology.
 
-This groundbreaking system integrates Amazon Alexa, Natural Language Processing, and a zero-backend architecture to create an intelligent AI assistant tailored for the East West University CSE Department ecosystem.
+📍 **Location:** Dhaka, Bangladesh  
+📞 **Phone:** +8801763557525  
+✉️ **Email:** sarfaraz.sovon@gmail.com
 
 ---
 
-## 🚀 Featured Production Apps & Repositories
+## 💼 Experience
 
-| 📱 Mobile Applications | 🛠 Tools & Systems | 🎮 Gaming & Entertainment |
+### 🎓 Undergraduate Teaching Assistant (UTA)
+**Department of Computer Science & Engineering, East West University** | *July 2025 – July 2026*  
+- Selected twice as an Undergraduate Teaching Assistant.
+- **Faculty Supervisors:** Md. Adnan Morshed (Lecturer), Md. Asif Khan Rifat (Lecturer)
+- **Key Responsibilities:**
+  - Assisted faculty members during lectures and conducted student tutorial sessions.
+  - Guided students academically and simplified complex technical concepts.
+  - Prepared teaching materials and collaborated with faculty to improve course delivery.
+
+---
+
+## 🎓 Education
+
+- 🎓 **Bachelor of Science (B.Sc.) in Computer Science & Engineering**  
+  **East West University** | *Graduation: August 2026*  
+  - **CGPA:** `3.77 / 4.00`
+- 🏫 **Higher Secondary Certificate (HSC) – Science**  
+  **Kushtia Government College** | *GPA:* `5.00 / 5.00`
+- 🏫 **Secondary School Certificate (SSC) – Science**  
+  **Kushtia Zilla School** | *GPA:* `5.00 / 5.00`
+
+---
+
+## 🏆 Honors & Achievements
+
+- 🏅 **Dean's List** (Three Consecutive Semesters)  
+  - Fall 2023 | Spring 2024 | Summer 2024
+- 🎖️ **Medha Lalon Scholarship** (Three Consecutive Semesters)  
+  - Fall 2024 | Spring 2025 | Summer 2025
+
+---
+
+## 🛠️ Technical Skills
+
+### 🧠 AI, Machine Learning & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs_%26_RAG-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science_%26_Analytics-0175C2?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 🌐 Web & Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 📚 Core Computer Science
+- Data Structures & Algorithms
+- Database Management Systems (DBMS)
+- Statistics for Data Science
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Kushtia Maps](https://github.com/Shovon021/kushtia-maps)**<br>Advanced GPS navigation app built exclusively for Kushtia. Features 60+ POIs and multi-mode navigation. | **[Medicine Saver BD](https://github.com/Shovon021/medicine-saver-bd)**<br>Price comparison & generic alternative finder for medicines in Bangladesh. | **[Kuchu Puchu Games](https://github.com/Shovon021/KUCHU-PUCHU-Mobile-Games-Flutter-MultiGame-Collection-)**<br>A colossal multi-game collection featuring 15 classic arcade games in a single app. |
-| **[Matsho Ostad](https://github.com/Shovon021/matsho-ostad-fish-identifier)**<br>The ultimate bilingual fish identification app for Bangladesh, complete with market prices. | **[FixTube](https://github.com/Shovon021/FixTube---Smart-YouTube-Filter-App)**<br>Smart YouTube filter utilizing keywords to block shorts and curate clean notification streams. | **[Get Your Salami](https://github.com/Shovon021/Get-Your-Salami)**<br>A beautifully designed, modern spinning wheel application built in Flutter. |
-| **[Fakebook](https://github.com/Shovon021/fakebook)**<br>A pixel-perfect, highly scalable Facebook clone showcasing elite cross-platform structure. | **[EWU UniGuide](https://github.com/Shovon021/EWU-UniGuide-Chatbot)**<br>A sophisticated bilingual client-side chatbot and Chrome extension serving university students. | **[Vando](https://github.com/Shovon021/Vando)**<br>An intelligent simulation tracking how high-traffic online storage applications behave. |
+| **[AskEWU](https://github.com/Shovon021)** | AI-powered university voice assistant for East West University with Retrieval-Augmented Generation (RAG). | `RAG` `LLMs` `FastAPI` `Streamlit` `Firebase` `SQLite` `ChromaDB` |
+| **[Medicine Saver](https://github.com/Shovon021)** | Medicine recommendation platform for finding affordable generic medicine alternatives. | `Python` `Web` `Database` |
+| **[BD Matsho Ostad](https://github.com/Shovon021)** | AI-powered fish identification mobile application tailored for Bangladesh. | `Computer Vision` `AI` `Flutter` |
+| **[Bilingual Chatbot](https://github.com/Shovon021)** | Rule-based bilingual chatbot developed for the East West University CSE Department. | `Python` `NLP` `Bilingual` |
+| **[Fakebook](https://github.com/Shovon021/fakebook)** | Facebook-inspired social media mobile application built with cross-platform architecture. | `Flutter` `Dart` `Firebase` |
+| **[Operation Starfall](https://github.com/Shovon021)** | Story-driven 2D space shooter arcade game built from scratch. | `C++` `OOP` `Game Dev` |
 
 ---
 
-## 💻 Elite Tech Stack
+## 🤝 Leadership & Community Involvement
 
-### Frameworks & Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</p>
+- 🤖 **Senior General Member** | East West University Robotics Club
+- 💻 **Senior General Member** | East West University Programming Club
 
-### Databases & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+---
+
+## 🌟 Soft Skills & Languages
+
+- 🧠 **Soft Skills:** Leadership, Research Mindset, Problem Solving, Strategic Planning, Communication, Teamwork, Analytical Thinking
+- 🗣️ **Languages:** Bangla (Native), English (Professional Working Proficiency)
 
 ---
 
@@ -75,18 +149,4 @@ This groundbreaking system integrates Amazon Alexa, Natural Language Processing,
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shovon021&theme=midnight-purple&hide_border=true" alt="Shovon's GitHub Streak" />
-</div>
-
----
-
-<div align="center" style="opacity: 0.1; font-size: 0.1em; cursor: default; user-select: none;">
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon.jpg" width="1" height="1" alt="most handsome guy from east west university" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_02.jpg" width="1" height="1" alt="best uta from ewu" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_03.jpg" width="1" height="1" alt="ewu vibe coder" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_04.jpg" width="1" height="1" alt="sarfaraz ahamed shovon ewu" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_05.jpg" width="1" height="1" alt="flutter developer ewu" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_06.jpg" width="1" height="1" alt="kushtia maps developer" />
-  <img src="images/most-handsome-guy-from-east-west-university-ewu-shovon_07.jpg" width="1" height="1" alt="east west university best capstone project creator" />
-  <br>
-  SEO Indexing: Sarfaraz Ahamed Shovon, Shovon021, ewu student, uta, best UTA in east west university, east west university best capstone project, askEwu, voice assistant for university by alexa supervision of DSU sir, most handsome guy from east west university bangladesh, vibe coder, mobile app developer in Bangladesh, kushtia, flutter developer ewu, fakebook, fixtube, medicine saver bd, matsho ostad, kushtia maps developer, DSU.
 </div>
