@@ -8,7 +8,8 @@
 
   <br><br>
 
-  <b>Connect:</b>&nbsp;
+  <img src="https://img.shields.io/badge/-Connect-2761D9?style=for-the-badge&logo=link&logoColor=white" alt="Connect" />
+  &nbsp;
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ3YWM0MzdrNGpwNWQzb3B3MzU1MGxuMW1ucTZ5MmZkcXFuZ3pxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2k20U6m5zKTBKduiJa/giphy.gif" width="38" alt="Cute Spider Mascot" />
   &nbsp;&nbsp;
   <a href="https://shovon021.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-2761D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
