@@ -3,7 +3,8 @@
   
   <br>
 
-  <a href="https://github.com/Shovon021"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2761D9&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+AI+Engineer;Machine+Learning+%26+Computer+Vision;Former+Undergraduate+Teaching+Assistant+(UTA)+%40+EWU;B.Sc.+in+Computer+Science+%26+Engineering;Creator+of+AskEWU+%26+AI-Powered+Applications" alt="Typing SVG" /></a>
+  <a href="https://github.com/Shovon021"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2761D9&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI+Engineer;Machine+Learning+%26+Computer+Vision;Former+Undergraduate+Teaching+Assistant+(UTA)+%40+EWU;B.Sc.+in+Computer+Science+%26+Engineering;Creator+of+AskEWU+%26+AI-Powered+Applications" alt="Typing SVG" /></a>
+  &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Coding Cat" />
 
   <br><br>
 
@@ -15,9 +16,11 @@
 
 <br>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-## <img src="https://img.shields.io/badge/-Professional%20Summary-2761D9?style=for-the-badge&logo=github&logoColor=white" />
+## <img src="https://img.shields.io/badge/-Professional%20Summary-2761D9?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ3YWM0MzdrNGpwNWQzb3B3MzU1MGxuMW1ucTZ5MmZkcXFuZ3pxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ATBwlz6fCGxd2mDRHg/giphy.gif" width="32" />
 
 Computer Science graduate from **East West University** with teaching experience as an **Undergraduate Teaching Assistant (UTA)**. Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering. Experienced in developing AI-powered assistants, mobile applications, web platforms, and intelligent automation systems. Possesses a strong research mindset, proven leadership skills, and a passion for solving real-world problems through innovative technology.
 
@@ -59,9 +62,13 @@ Computer Science graduate from **East West University** with teaching experience
 - <img src="https://img.shields.io/badge/Award-Dean's%20List-D97706?style=flat-square&logo=award&logoColor=white" /> **Three Consecutive Semesters:** Fall 2023 | Spring 2024 | Summer 2024
 - <img src="https://img.shields.io/badge/Scholarship-Medha%20Lalon%20Scholarship-059669?style=flat-square&logo=academic&logoColor=white" /> **Three Consecutive Semesters:** Fall 2024 | Spring 2025 | Summer 2025
 
----
+<br>
 
-## <img src="https://img.shields.io/badge/-Technical%20Skills-2761D9?style=for-the-badge&logo=codefactor&logoColor=white" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+## <img src="https://img.shields.io/badge/-Technical%20Skills-2761D9?style=for-the-badge&logo=codefactor&logoColor=white" /> &nbsp;<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" />
 
 ### <img src="https://img.shields.io/badge/Category-AI,%20Machine%20Learning%20%26%20Data%20Science-10A37F?style=flat-square&logo=openai&logoColor=white" />
 <p align="left">
@@ -109,7 +116,7 @@ Computer Science graduate from **East West University** with teaching experience
 
 ---
 
-## <img src="https://img.shields.io/badge/-Featured%20Repositories%20%26%20Projects-2761D9?style=for-the-badge&logo=gitbook&logoColor=white" />
+## <img src="https://img.shields.io/badge/-Featured%20Repositories%20%26%20Projects-2761D9?style=for-the-badge&logo=gitbook&logoColor=white" /> &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" />
 
 | Project Name | Description | Tech Stack | Repository Link |
 | :--- | :--- | :--- | :--- |
@@ -142,7 +149,11 @@ Computer Science graduate from **East West University** with teaching experience
 - **Soft Skills:** Leadership, Research Mindset, Problem Solving, Strategic Planning, Communication, Teamwork, Analytical Thinking
 - **Languages:** Bangla (Native), English (Professional Working Proficiency)
 
----
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ## <img src="https://img.shields.io/badge/-Developer%20Analytics%20%26%20Actions-2761D9?style=for-the-badge&logo=githubactions&logoColor=white" />
 
