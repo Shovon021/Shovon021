@@ -8,6 +8,9 @@
 
   <br><br>
 
+  <b>Connect:</b>&nbsp;
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ3YWM0MzdrNGpwNWQzb3B3MzU1MGxuMW1ucTZ5MmZkcXFuZ3pxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2k20U6m5zKTBKduiJa/giphy.gif" width="38" alt="Cute Spider Mascot" />
+  &nbsp;&nbsp;
   <a href="https://shovon021.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-2761D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/sarfaraz-ahamed-shovon-49422b405"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sarfaraz.sovon@gmail.com"><img src="https://img.shields.io/badge/Email-sarfaraz.sovon%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -16,6 +19,9 @@
 
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cherryberry112/Cherryberry112/main/kyubey.gif" height="40" alt="Running Cat Mascot" />
+</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
@@ -65,10 +71,13 @@ Computer Science graduate from **East West University** with teaching experience
 <br>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Cherryberry112/Cherryberry112/main/kyubey.gif" height="40" alt="Running Cat Mascot" />
+</p>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://img.shields.io/badge/-Technical%20Skills-2761D9?style=for-the-badge&logo=codefactor&logoColor=white" /> &nbsp;<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" />
+## <img src="https://img.shields.io/badge/-Technical%20Skills-2761D9?style=for-the-badge&logo=codefactor&logoColor=white" /> &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" />
 
 ### <img src="https://img.shields.io/badge/Category-AI,%20Machine%20Learning%20%26%20Data%20Science-10A37F?style=flat-square&logo=openai&logoColor=white" />
 <p align="left">
